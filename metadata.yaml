@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '34199'
     url: http://www.gutenberg.org/2009/agents/34199
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29827#The-Life-and-Amours-of-the-Beautiful-Gay-and-Dashing-Kate-PercivalThe-Belle-of-the-Delaware
 gutenberg_issued: '2009-08-28'
 gutenberg_type: Text
 identifiers:
