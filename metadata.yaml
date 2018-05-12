@@ -1,0 +1,27 @@
+_repo: The-Life-and-Amours-of-the-Beautiful-Gay-and-Dashing-Kate-PercivalThe-Belle-of-the-Delaware_29827
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Percival, Kate
+    gutenberg_agent_id: '34199'
+    url: http://www.gutenberg.org/2009/agents/34199
+description: ''
+gutenberg_issued: '2009-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29827'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Prostitutes -- Fiction'
+- !lcsh 'Erotic literature, American'
+title: 'The Life and Amours of the Beautiful, Gay and Dashing Kate Percival
+
+  The Belle of the Delaware'
+url: http://www.gutenberg.org/ebooks/29827
